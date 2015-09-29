@@ -1,7 +1,6 @@
 # gitskills
-<<<<<<< HEAD
 haha
-=======
 hahahahahah
->>>>>>> dev
 xixi
+呼呼
+
