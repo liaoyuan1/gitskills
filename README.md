@@ -3,6 +3,7 @@ haha
 hahahahahah
 xixi
 呼呼
+自强不息
 呵呵呵呵
 kakaka
 乐乐呗
